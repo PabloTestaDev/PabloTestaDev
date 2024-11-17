@@ -1,5 +1,5 @@
 <h1 align="center">Hola soy Pablo</h1>
-<h3 align="center">Soy desarrollador de software junior, especializado en servicios de lado del servidor (Back-End), con tecnologías orientadas a Java, SpringBoot. En proceso de aprendizaje de Microservicios. Actualmente, estudiante de ingeniería civil informática y computación.</h3> - Desarrollo de API Rest con Spring Boot - Contacto **https://www.linkedin.com/in/pablo-testa-2b6500316/**
+<h3 align="center">Soy desarrollador de software junior, especializado en servicios de lado del servidor (Back-End), con tecnologías orientadas a Java, SpringBoot. En proceso de aprendizaje de Microservicios. Actualmente, estudiante de ingeniería civil informática y computación.</h3> - Desarrollo de APIs con Spring Boot - Contacto **https://www.linkedin.com/in/pablo-testa-2b6500316/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
